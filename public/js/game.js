@@ -451,7 +451,7 @@ function drawPlayerPixels (){
         pixels.locate('idle',21,10,32,41); // matching pixels to the uploaded img to find the path.
         return pixels;
     });
-
+//askdjflkdsajflksadjflk
 }
 
 function createbgLayer (level,pixels){   // create the background layer first
